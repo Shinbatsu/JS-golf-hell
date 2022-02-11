@@ -1,1 +1,1 @@
-// f=[,b,,i,,n,,d,,j,,o,,n,,s,,p,,l,,t]=`bindjonsplt`f=[][j+o+i+n][b+i+n+d](`Hello, world!`[s+p+l+i+t](``),[],[])
+// $ = `\c\o\n\s\t\r\u\c\t\o\r`;$[$][$](  `f=\$\=\>\'\H\e\l\l\o\,\ \w\o\r\l\d\!\'\`)();
