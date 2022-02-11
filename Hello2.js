@@ -1,0 +1,1 @@
+// f=[,b,,i,,n,,d,,j,,o,,n,,s,,p,,l,,t]=`bindjonsplt`f=[][j+o+i+n][b+i+n+d](`Hello, world!`[s+p+l+i+t](``),[],[])
